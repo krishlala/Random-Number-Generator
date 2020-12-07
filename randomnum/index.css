@@ -1,0 +1,33 @@
+body
+{
+  text-align:center;
+  font-size:18px;
+  background: #80DEEA;
+}
+
+h1 button
+{
+  width: 100px;
+  height: 50px;
+  font-size: 20px;
+  color: white;
+  background-color: #00B0FF;
+  border-radius: 100px;
+}
+
+h2 p
+{
+font-family: Montserrat, sans-serif;
+}
+
+h3 p
+{
+  color: black;
+  font-family: Montserrat, sans-serif;
+  font-size: 125px;
+}
+
+h4
+{
+  font-family: Montserrat, sans-serif;
+}
